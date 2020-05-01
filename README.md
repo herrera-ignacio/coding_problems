@@ -14,16 +14,20 @@ Collection of Algorithm and Data Structures challenges, with solutions in differ
 
 ## Easy
 
+#### General Purpose
+
+* [Two number sum](./easy/general/1)
+
 #### Arrays
 
-* [Finding Single Missing Element](./array/1)
-* [Finding Multiple Missing Elements from sorted array](./array/2)
-* [Finding Duplicates in sorted array](./array/3)
+* [Finding Single Missing Element](./easy/array/1)
+* [Finding Multiple Missing Elements from sorted array](./easy/array/2)
+* [Finding Duplicates in sorted array](./easy/array/3)
 * [Finding Duplicates in unsorted array](./array/4)
-* [Finding a Pair of Elements with sum K in unsorted array](./array/5)
-* [Finding a Pair of Elements with sum K in a sorted array](./array/6)
+* [Finding a Pair of Elements with sum K in unsorted array](./easy/array/5)
+* [Finding a Pair of Elements with sum K in a sorted array](./easy/array/6)
 * [Finding Max and Min in a single scan](./array/7)
 
 #### Stack
 
-* [Parentheses Matching](./stack/1)
+* [Parentheses Matching](./easy/stack/1)
