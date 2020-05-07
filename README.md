@@ -31,3 +31,12 @@ Collection of Algorithm and Data Structures challenges, with solutions in differ
 #### Stack
 
 * [Parentheses Matching](./easy/stack/1)
+
+---
+
+## Medium
+
+#### Sequences
+
+* [Find minium combination of string subsequences to concat and get goal](./medium/sequences/1)
+
