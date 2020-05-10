@@ -32,6 +32,14 @@ Collection of Algorithm and Data Structures challenges, with solutions in differ
 
 * [Parentheses Matching](./easy/stack/1)
 
+
+#### Graph
+
+
+#### Trees
+
+* [Depth-first search](./easy/trees/1)
+
 ---
 
 ## Medium
