@@ -17,6 +17,7 @@ Collection of Algorithm and Data Structures challenges, with solutions in differ
 #### General Purpose
 
 * [Two number sum](./easy/general/1)
+* [Branch Sums](./easy/general/2)
 
 #### Arrays
 
