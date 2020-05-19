@@ -19,6 +19,7 @@ Collection of Algorithm and Data Structures challenges, with solutions in differ
 * [Two number sum](./easy/general/1)
 * [Branch Sums](./easy/general/2)
 * [Linked List Construction](./easy/general/3)
+* [Nth Fibonacci](./easy/general/4)
 
 #### Arrays
 
