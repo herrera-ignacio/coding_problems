@@ -21,7 +21,7 @@ Collection of Algorithm and Data Structures challenges, with solutions in differ
 * [Linked List Construction](./easy/general/3)
 * [Nth Fibonacci](./easy/general/4)
 
-#### Arrays
+#### Sequences
 
 * [Finding Single Missing Element](./easy/array/1)
 * [Finding Multiple Missing Elements from sorted array](./easy/array/2)
@@ -30,14 +30,13 @@ Collection of Algorithm and Data Structures challenges, with solutions in differ
 * [Finding a Pair of Elements with sum K in unsorted array](./easy/array/5)
 * [Finding a Pair of Elements with sum K in a sorted array](./easy/array/6)
 * [Finding Max and Min in a single scan](./array/7)
+* [Binary Search](./array/8)
 
 #### Stack
 
 * [Parentheses Matching](./easy/stack/1)
 
-
 #### Graph
-
 
 #### Trees
 
