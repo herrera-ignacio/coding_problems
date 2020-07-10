@@ -6,7 +6,7 @@ Collection of Algorithm and Data Structures challenges, with solutions in differ
 
 * Challenges are divided by difficulty
 * Challenges are divided by related data-structure
-	* This just implies a suitable data-structure that makes the solution easier to understand, but does not mean you cannot think of a better solution using a different data-structure.
+	* This just implies a suitable data-structure that makes the solution easier to understand, but does not mean you cannot think of an alternative or better solution using a different data-structure.
 * Each challenge includes a README.md with a description of a problem and some preconditions and restrictions such as time/space complexity.
 * Example solutions are intended to be used once you come up with a solution on your own.
 
@@ -26,11 +26,12 @@ Collection of Algorithm and Data Structures challenges, with solutions in differ
 * [Finding Single Missing Element](./easy/array/1)
 * [Finding Multiple Missing Elements from sorted array](./easy/array/2)
 * [Finding Duplicates in sorted array](./easy/array/3)
-* [Finding Duplicates in unsorted array](./array/4)
+* [Finding Duplicates in unsorted array](./easy/array/4)
 * [Finding a Pair of Elements with sum K in unsorted array](./easy/array/5)
 * [Finding a Pair of Elements with sum K in a sorted array](./easy/array/6)
-* [Finding Max and Min in a single scan](./array/7)
-* [Binary Search](./array/8)
+* [Finding Max and Min in a single scan](./easy/array/7)
+* [Binary Search](./easy/array/8)
+* [Find Three Largest Numbers](./easy/array/9)
 
 #### Stack
 
