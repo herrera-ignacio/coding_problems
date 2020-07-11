@@ -42,6 +42,7 @@ Collection of Algorithm and Data Structures challenges, with solutions in differ
 #### Trees
 
 * [Depth-first search](./easy/trees/1)
+* [Node Depths](./easy/trees/2)
 
 ---
 
