@@ -32,6 +32,8 @@ Collection of Algorithm and Data Structures challenges, with solutions in differ
 * [Finding Max and Min in a single scan](./easy/array/7)
 * [Binary Search](./easy/array/8)
 * [Find Three Largest Numbers](./easy/array/9)
+* [Caesar Cipher Encryptor](./easy/array/10)
+* [Validate Subsequence](./easy/array/11)
 
 #### Stack
 
@@ -42,7 +44,7 @@ Collection of Algorithm and Data Structures challenges, with solutions in differ
 #### Trees
 
 * [Depth-first search](./easy/trees/1)
-* [Node Depths](./easy/trees/2)
+* [Sum of Node Depths](./easy/trees/2)
 
 ---
 
